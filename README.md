@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-## 💻 I’m currently pursing Bachelor's in Computer Science
+## 💻 I’m currently pursuing Bachelor's in Computer Science
 ## ⌨️ I’m currently learning Object Oriented Programming (OOP) in C++
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
